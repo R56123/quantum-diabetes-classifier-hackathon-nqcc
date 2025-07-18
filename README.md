@@ -43,8 +43,11 @@ Use Case: *Applied Quantum Computing – Quantum ML for Diabetes Identification*
 
 ## 📂 Structure:
 ├── classical_model.ipynb # Classical ML with Scikit-learn
+
 ├── quantum_model.ipynb # Quantum circuit and training logic
+
 ├── README.md # This file
+
 ├── .venv/ # Virtual environment (optional)
 
 ---
